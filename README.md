@@ -1,3 +1,9 @@
+[![DOI](https://zenodo.org/badge/10.5281/zenodo.18111999.svg)](https://doi.org/10.5281/zenodo.181119990)
+
+
+
+
+
 # Crevecoeur-Analytics
 
 R scripts for the paper:
